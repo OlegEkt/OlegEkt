@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlegEkt
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning JS, Python.
 - 💞️ I’m looking to collaborate on people who are expert in programming to improve my own.
 - 📫 How to reach me by email scala37@yandex.ru.
 
